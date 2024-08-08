@@ -547,7 +547,7 @@ body {
   margin: 0;
   cursor: grab;
   user-select: none;
-  background-color: transparent;
+  background-color: white;
 }
 
 canvas {
